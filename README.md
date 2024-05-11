@@ -1,5 +1,4 @@
 # final_4190
-Final Project for COMM 4190 
 
 PR for any transportation services (i.e., Amtrak, NJ Transit, MTA..xyz)
 
