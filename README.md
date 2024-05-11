@@ -3,6 +3,13 @@ Final Project for COMM 4190
 
 PR for any transportation services (i.e., Amtrak, NJ Transit, MTA..xyz)
 
+In today’s age of public transportation, effective communication is crucial in ensuring a safe, efficient, and easy experience for passengers. However, traditional communication falls short when unexpected events take place, leading to frustration and inconvenience. 
+
+Meet PathPilot, your best friend for promising a great transportation experience. PathPilot is a groundbreaking chatbot that transforms the way transportation services communicate with passengers. By harnessing AI technology, PathPilot works to communicate vital information during stressful and unprecedented times, including time updates, enhanced safety measures, emergency communication, and individual recommendations. PathPilot is tailored to the individual’s needs, and communicates information about delays and safety concerns based on the passenger’s needs. 
+
+---
+
+
 There are currently no efficient ways of communicating delays to users and these train stations get flooded with people
 Avoid dissatisfaction with transportation services
 AI can send the message to riders a lot quicker than word-of-mouth communication
