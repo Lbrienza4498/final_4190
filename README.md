@@ -1,6 +1,6 @@
 # final_4190
 
-PR for transportation services (i.e., Amtrak, NJ Transit, MTA..xyz)
+PathPilot - PR for transportation services (i.e., Amtrak, NJ Transit, MTA, etc.)
 
 In today’s age of public transportation, effective communication is crucial in ensuring a safe, efficient, and easy experience for passengers. However, traditional communication falls short when unexpected events take place, leading to frustration and inconvenience. 
 
